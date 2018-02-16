@@ -1,3 +1,4 @@
 .vscode/
 client/.next/
 node_modules/
+\.production\.env

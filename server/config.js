@@ -1,5 +1,5 @@
 module.exports = {
-  PORT: 80,
+  PORT: process.env.PORT,
 
   /* The domain that this website is on */
   DEFAULT_DOMAIN: process.env.DEFAULT_DOMAIN,
