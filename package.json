@@ -15,6 +15,9 @@
       "pre-commit": "npm run lint:nofix"
     }
   },
+  "engines": {
+    "node": "8.9.4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheDevs-Network/kutt.git"
