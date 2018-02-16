@@ -3,8 +3,8 @@ module.exports = {
     Invisible reCaptcha site key
     Create one in https://www.google.com/recaptcha/intro/
   */
-  RECAPTCHA_SITE_KEY: '',
+  RECAPTCHA_SITE_KEY: process.env.RECAPTCHA_SITE_KEY,
 
   // Google analytics tracking ID
-  GOOGLE_ANALYTICS_ID: '6Lc4TUAUAAAAAMRHnlEEt21UkPlOXKCXHaIapdTT',
+  GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID,
 };

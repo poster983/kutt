@@ -1,7 +1,7 @@
 <a href="https://kutt.it" title="kutt.it"><img src="https://camo.githubusercontent.com/073e709d02d3cf6ee5439ee6ce0bb0895f9f3733/687474703a2f2f6f6936372e74696e797069632e636f6d2f3636797a346f2e6a7067" alt="Kutt.it"></a>
 
 # Kutt.it for Lijo.pw
-This project is forked from [Kutt](https://github.com/thedevs-network/kutt)
+This project is forked from [Kutt](https://github.com/thedevs-network/kutt) and has been optimized for use in a dokku environment
 
 **Kutt** is a modern URL shortener which lets you set custom domains for your shortened URLs, manage your links and view the click rate statistics.
 
